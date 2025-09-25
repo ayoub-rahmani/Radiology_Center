@@ -16,6 +16,8 @@ Radiology_Center is a robust terminal-based application built with Java that hel
 
     Financial Management - Billing and payment tracking
 
+---
+
 📊 Advanced Features
 
     PDF Report Generation - Export reports in professional format
@@ -28,6 +30,8 @@ Radiology_Center is a robust terminal-based application built with Java that hel
 
     Statistical Reports - Analytics and insights
 
+---
+
 🚀 Quick Start
 Prerequisites
 
@@ -39,17 +43,3 @@ Prerequisites
 
     Adding the dependencies in "Radiology_Center/Dependencies (In Case u dont have it)" in your global libraries
 
-
-  
-
-# Clone the repository
-git clone https://github.com/ayoub-rahmani/Radiology_Center.git
-
-# Navigate to project directory
-cd Radiology_Center
-
-# Compile the application
-javac *.java
-
-# Run the application
-java Main
