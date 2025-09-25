@@ -1,0 +1,23 @@
+[
+  {
+    "idR": 1001,
+    "specialite": "IRM",
+    "nom": "BenDriss",
+    "prenom": "Hbib",
+    "numTelephone": 20331318
+  },
+  {
+    "idR": 1002,
+    "specialite": "Scanner",
+    "nom": "Hsine",
+    "prenom": "Mohsine",
+    "numTelephone": 98541236
+  },
+  {
+    "idR": 8178,
+    "specialite": "Echographie",
+    "nom": "Krekeb",
+    "prenom": "Ali",
+    "numTelephone": 20145987
+  }
+]

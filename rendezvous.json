@@ -1,0 +1,84 @@
+[
+  {
+    "date": "2024-12-04T21:05:09.0830703",
+    "idRv": 6766,
+    "patient": {
+      "adresse": "Menzel Jmil",
+      "CIN": 2548964,
+      "dateDeNaissance": "25/06/2001",
+      "dossier": {
+        "results": [
+          {
+            "prescription": {
+              "medecin": {
+                "idM": 12,
+                "specialite": "Idk",
+                "contact": "Hamdi@yahoo.com",
+                "nom": "Chicha",
+                "prenom": "Hamdi",
+                "numTelephone": 78451289
+              },
+              "traitement": "IRM"
+            }
+          }
+        ]
+      },
+      "nom": "Fouleni",
+      "prenom": "Flen",
+      "numTelephone": 25147896
+    },
+    "prescription": {
+      "medecin": {
+        "idM": 12,
+        "specialite": "Idk",
+        "contact": "Hamdi@yahoo.com",
+        "nom": "Chicha",
+        "prenom": "Hamdi",
+        "numTelephone": 78451289
+      },
+      "traitement": "IRM"
+    },
+    "state": "Done"
+  },
+  {
+    "date": "2024-12-04T21:06:52.9947908",
+    "idRv": 1721,
+    "patient": {
+      "adresse": "Jerba",
+      "CIN": 12345678,
+      "dateDeNaissance": "20/10/1999",
+      "dossier": {
+        "results": [
+          {
+            "prescription": {
+              "medecin": {
+                "idM": 12,
+                "specialite": "idk",
+                "contact": "ljj@kkj.fgd",
+                "nom": "hmadi",
+                "prenom": "Hamdi chicha",
+                "numTelephone": 45127898
+              },
+              "traitement": "Scanner"
+            }
+          }
+        ]
+      },
+      "nom": "Kouki",
+      "prenom": "Ines",
+      "numTelephone": 78451256
+    },
+    "prescription": {
+      "medecin": {
+        "idM": 12,
+        "specialite": "idk",
+        "contact": "ljj@kkj.fgd",
+        "nom": "hmadi",
+        "prenom": "Hamdi chicha",
+        "numTelephone": 45127898
+      },
+      "traitement": "Scanner"
+    },
+    "state": "Done"
+  }
+]

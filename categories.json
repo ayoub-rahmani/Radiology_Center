@@ -1,0 +1,18 @@
+[
+  {
+    "nom": "IRM",
+    "prix": 700.0
+  },
+  {
+    "nom": "Scanner",
+    "prix": 500.0
+  },
+  {
+    "nom": "Thorax",
+    "prix": 60.0
+  },
+  {
+    "nom": "Echographie",
+    "prix": 100.0
+  }
+]
