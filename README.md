@@ -1,8 +1,8 @@
-🏥 Overview
+Overview
 
 Radiology_Center is a robust terminal-based application built with Java that helps medical facilities manage their daily operations. The system offers a user-friendly menu-driven interface to handle patients, medical staff, appointments, examinations, and financial records with PDF report generation capabilities.
-✨ Key Features
-🔧 Core Management Modules
+Key Features
+Core Management Modules
 
     Patient Management - Complete patient records and history
 
@@ -18,7 +18,7 @@ Radiology_Center is a robust terminal-based application built with Java that hel
 
 ---
 
-📊 Advanced Features
+Advanced Features
 
     PDF Report Generation - Export reports in professional format
 
@@ -32,7 +32,7 @@ Radiology_Center is a robust terminal-based application built with Java that hel
 
 ---
 
-🚀 Quick Start
+Quick Start
 Prerequisites
 
     Java JDK 8 or higher
